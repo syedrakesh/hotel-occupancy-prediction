@@ -1,15 +1,20 @@
-🏨 Hotel Occupancy Prediction
-This project utilizes machine learning to predict hotel occupancy rates based on historical booking data, seasonal trends, and external factors like holidays and events.
+# 🏨 Hotel Occupancy Prediction  
 
-🔹 Features:
-✅ Data preprocessing and feature engineering
-✅ Machine learning models (Regression, Time Series, etc.)
-✅ Evaluation metrics for accuracy assessment
-✅ Interactive visualizations for insights
+This project leverages machine learning to predict hotel occupancy rates based on historical booking data, seasonal trends, and external factors such as holidays and local events. The goal is to help hotels optimize pricing strategies and resource allocation.  
 
-🚀 Technologies Used:
-Python (Pandas, NumPy, Scikit-learn)
-Time Series Analysis (Prophet)
-Data Visualization (Matplotlib, Seaborn)
-📊 Goal:
-Improve occupancy forecasting to optimize pricing strategies and resource allocation for hotels.
+## 📌 Features  
+- 📊 **Data Preprocessing & Feature Engineering**  
+- 🤖 **Machine Learning Models** (Regression, Time Series)  
+- 📈 **Performance Evaluation** (Accuracy)  
+- 📊 **Data Visualization** for Insights  
+
+## 🛠️ Technologies Used  
+- **Python** (Pandas, NumPy, Scikit-learn)  
+- **Time Series Models** (Prophet)  
+- **Data Visualization** (Matplotlib, Seaborn)  
+
+## 🚀 Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/hotel-occupancy-prediction.git
+   cd hotel-occupancy-prediction
