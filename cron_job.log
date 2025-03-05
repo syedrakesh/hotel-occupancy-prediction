@@ -1,0 +1,378 @@
+2024-07-08 01:05:03,487 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-08 01:05:03,489 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-08 01:05:31,430 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-08 01:05:31,639 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-08 01:05:57,244 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-08 01:06:04,066 - completed
+2024-07-08 01:06:04,071 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-08 01:06:04,073 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-08 01:06:23,338 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-08 01:06:23,737 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-08 01:06:43,902 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-08 01:06:48,445 - completed
+2024-07-08 01:06:48,446 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-08 01:06:48,448 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-08 01:07:16,488 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-08 01:07:17,117 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-08 01:08:08,433 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-08 01:08:13,270 - completed
+2024-07-09 01:05:02,555 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-09 01:05:02,556 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-09 01:05:34,378 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-09 01:05:34,576 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-09 01:05:59,395 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-09 01:06:04,944 - completed
+2024-07-09 01:06:04,946 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-09 01:06:04,950 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-09 01:06:24,297 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-09 01:06:24,729 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-09 01:06:45,331 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-09 01:06:51,018 - completed
+2024-07-09 01:06:51,019 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-09 01:06:51,020 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-09 01:07:38,419 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-09 01:07:39,000 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-09 01:08:25,817 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-09 01:08:31,335 - completed
+2024-07-10 01:05:02,959 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-10 01:05:02,961 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-10 01:05:31,171 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-10 01:05:31,375 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-10 01:05:58,457 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-10 01:06:05,191 - completed
+2024-07-10 01:06:05,192 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-10 01:06:05,193 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-10 01:06:25,893 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-10 01:06:26,316 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-10 01:06:47,155 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-10 01:06:52,022 - completed
+2024-07-10 01:06:52,023 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-10 01:06:52,025 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-10 01:07:40,911 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-10 01:07:41,463 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-10 01:08:15,446 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-10 01:08:21,485 - completed
+2024-07-11 01:05:02,678 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-11 01:05:02,680 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-11 01:05:30,661 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-11 01:05:30,875 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-11 01:05:58,122 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-11 01:06:03,204 - completed
+2024-07-11 01:06:03,205 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-11 01:06:03,206 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-11 01:06:03,261 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-11 01:06:03,265 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-11 01:06:03,295 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-11 01:06:03,299 - 'date'
+2024-07-11 01:06:03,300 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-11 01:06:03,301 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-11 01:06:03,334 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-11 01:06:03,338 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-11 01:06:03,366 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-11 01:06:03,370 - 'date'
+2024-07-12 01:05:02,831 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-12 01:05:02,833 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-12 01:05:32,103 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-12 01:05:32,322 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-12 01:06:00,963 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-12 01:06:07,137 - completed
+2024-07-12 01:06:07,139 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-12 01:06:07,140 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-12 01:06:26,037 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-12 01:06:26,462 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-12 01:06:49,198 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-12 01:06:54,178 - completed
+2024-07-12 01:06:54,179 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-12 01:06:54,180 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-12 01:07:39,665 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-12 01:07:40,174 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-12 01:08:35,956 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-12 01:08:41,970 - completed
+2024-07-13 01:05:03,093 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-13 01:05:03,095 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-13 01:05:30,547 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-13 01:05:30,741 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-13 01:05:56,650 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-13 01:06:00,701 - completed
+2024-07-13 01:06:00,702 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-13 01:06:00,703 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-13 01:06:20,207 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-13 01:06:20,548 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-13 01:06:40,032 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-13 01:06:44,060 - completed
+2024-07-13 01:06:44,061 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-13 01:06:44,063 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-13 01:07:27,604 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-13 01:07:28,182 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-13 01:08:14,164 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-13 01:08:20,313 - completed
+2024-07-14 01:05:02,765 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-14 01:05:02,767 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-14 01:05:53,448 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-14 01:05:53,616 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-14 01:06:21,507 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-14 01:06:25,564 - completed
+2024-07-14 01:06:25,565 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-14 01:06:25,566 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-14 01:06:46,406 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-14 01:06:46,822 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-14 01:07:08,067 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-14 01:07:13,105 - completed
+2024-07-14 01:07:13,106 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-14 01:07:13,107 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-14 01:07:57,001 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-14 01:07:57,431 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-14 01:08:43,959 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-14 01:08:47,120 - completed
+2024-07-15 01:05:03,177 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-15 01:05:03,179 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-15 01:05:31,654 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-15 01:05:31,857 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-15 01:05:57,892 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-15 01:06:03,048 - completed
+2024-07-15 01:06:03,049 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-15 01:06:03,051 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-15 01:06:22,407 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-15 01:06:22,921 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-15 01:06:47,681 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-15 01:06:52,017 - completed
+2024-07-15 01:06:52,018 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-15 01:06:52,020 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-15 01:08:19,473 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-15 01:08:19,897 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-15 01:09:08,791 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-15 01:09:12,328 - completed
+2024-07-16 01:05:03,117 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-16 01:05:03,119 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-16 01:05:37,375 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-16 01:05:37,562 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-16 01:05:57,453 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-16 01:06:02,031 - completed
+2024-07-16 01:06:02,045 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-16 01:06:02,046 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-16 01:06:25,640 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-16 01:06:26,028 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-16 01:06:45,764 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-16 01:06:50,569 - completed
+2024-07-16 01:06:50,570 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-16 01:06:50,572 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-16 01:07:42,531 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-16 01:07:43,051 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-16 01:08:21,083 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-16 01:08:25,139 - completed
+2024-07-17 01:05:02,579 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-17 01:05:02,581 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-17 01:05:30,582 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-17 01:05:30,771 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-17 01:06:00,842 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-17 01:06:06,297 - completed
+2024-07-17 01:06:06,298 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-17 01:06:06,300 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-17 01:06:23,053 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-17 01:06:23,589 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-17 01:06:40,958 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-17 01:06:46,813 - completed
+2024-07-17 01:06:46,814 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-17 01:06:46,815 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-17 01:07:21,639 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-17 01:07:22,128 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-17 01:08:12,288 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-17 01:08:26,283 - completed
+2024-07-18 01:05:02,837 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-18 01:05:02,839 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-18 01:05:29,914 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-18 01:05:30,113 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-18 01:06:03,760 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-18 01:06:07,758 - completed
+2024-07-18 01:06:07,759 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-18 01:06:07,760 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-18 01:06:27,014 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-18 01:06:27,380 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-18 01:06:47,046 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-18 01:06:51,076 - completed
+2024-07-18 01:06:51,080 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-18 01:06:51,081 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-18 01:07:38,652 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-18 01:07:39,121 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-18 01:07:39,156 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-18 01:07:41,086 - completed
+2024-07-19 01:05:02,784 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-19 01:05:02,786 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-19 01:05:26,246 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-19 01:05:26,483 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-19 01:05:47,057 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-19 01:05:51,843 - completed
+2024-07-19 01:05:51,845 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-19 01:05:51,846 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-19 01:06:07,998 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-19 01:06:08,409 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-19 01:06:29,265 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-19 01:06:38,316 - completed
+2024-07-19 01:06:38,317 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-19 01:06:38,319 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-19 01:07:12,608 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-19 01:07:13,093 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-19 01:07:50,968 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-19 01:07:54,801 - completed
+2024-07-20 01:05:02,486 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-20 01:05:02,489 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-20 01:05:21,781 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-20 01:05:21,962 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-20 01:05:51,783 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-20 01:05:56,289 - completed
+2024-07-20 01:05:56,290 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-20 01:05:56,292 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-20 01:06:18,311 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-20 01:06:18,709 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-20 01:06:35,588 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-20 01:06:39,221 - completed
+2024-07-20 01:06:39,222 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-20 01:06:39,223 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-20 01:07:25,584 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-20 01:07:26,062 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-20 01:08:20,684 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-20 01:08:24,236 - completed
+2024-07-21 01:05:03,222 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-21 01:05:03,223 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-21 01:05:31,493 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-21 01:05:31,652 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-21 01:05:55,818 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-21 01:05:59,203 - completed
+2024-07-21 01:05:59,204 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-21 01:05:59,206 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-21 01:06:18,373 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-21 01:06:18,683 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-21 01:06:30,968 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-21 01:06:34,384 - completed
+2024-07-21 01:06:34,385 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-21 01:06:34,386 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-21 01:07:20,452 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-21 01:07:20,861 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-21 01:08:09,124 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-21 01:08:11,882 - completed
+2024-07-22 01:05:02,585 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-22 01:05:02,587 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-22 01:05:20,959 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-22 01:05:21,125 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-22 01:05:49,171 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-22 01:05:52,301 - completed
+2024-07-22 01:05:52,302 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-22 01:05:52,303 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-22 01:06:05,294 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-22 01:06:05,794 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-22 01:06:25,451 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-22 01:06:28,870 - completed
+2024-07-22 01:06:28,871 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-22 01:06:28,873 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-22 01:07:01,690 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-22 01:07:02,101 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-22 01:07:49,291 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-22 01:07:52,231 - completed
+2024-07-23 01:05:03,002 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-23 01:05:03,003 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-23 01:05:22,334 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-23 01:05:22,595 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-23 01:05:39,481 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-23 01:05:43,910 - completed
+2024-07-23 01:05:43,913 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-23 01:05:43,915 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-23 01:06:02,349 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-23 01:06:02,725 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-23 01:06:22,589 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-23 01:06:28,044 - completed
+2024-07-23 01:06:28,045 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-23 01:06:28,047 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-23 01:06:28,079 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-23 01:06:28,082 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-23 01:06:28,133 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-23 01:06:28,136 - 'date'
+2024-07-24 01:05:02,494 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-24 01:05:02,495 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-24 01:05:28,590 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-24 01:05:28,754 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-24 01:05:52,928 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-24 01:05:56,553 - completed
+2024-07-24 01:05:56,554 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-24 01:05:56,555 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-24 01:06:17,452 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-24 01:06:17,795 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-24 01:06:17,839 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-24 01:06:19,975 - completed
+2024-07-24 01:06:19,976 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-24 01:06:19,977 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-24 01:06:20,012 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-24 01:06:20,016 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-24 01:06:20,046 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-24 01:06:20,049 - 'date'
+2024-07-25 01:05:02,810 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-25 01:05:02,812 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-25 01:05:37,040 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-25 01:05:37,211 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-25 01:06:05,848 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-25 01:06:11,794 - completed
+2024-07-25 01:06:11,803 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-25 01:06:11,805 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-25 01:06:30,531 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-25 01:06:30,862 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-25 01:06:43,480 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-25 01:06:46,678 - completed
+2024-07-25 01:06:46,679 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-25 01:06:46,680 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-25 01:07:21,309 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-25 01:07:21,724 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-25 01:08:18,999 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-25 01:08:21,967 - completed
+2024-07-26 01:05:02,728 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-26 01:05:02,730 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-26 01:05:31,858 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-26 01:05:32,027 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-26 01:05:32,061 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-26 01:05:34,799 - completed
+2024-07-26 01:05:34,802 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-26 01:05:34,803 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-26 01:05:34,834 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-26 01:05:34,838 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-26 01:05:34,880 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-26 01:05:34,883 - 'date'
+2024-07-26 01:05:34,884 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-26 01:05:34,885 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-26 01:05:34,910 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-26 01:05:34,913 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-26 01:05:34,939 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 429 59
+2024-07-26 01:05:34,942 - 'date'
+2024-07-27 01:05:03,022 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-27 01:05:03,024 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-27 01:05:33,125 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-27 01:05:33,378 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-27 01:05:59,543 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-27 01:06:05,743 - completed
+2024-07-27 01:06:05,744 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-27 01:06:05,746 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-27 01:06:19,327 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-27 01:06:19,827 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-27 01:06:40,713 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-27 01:06:45,057 - completed
+2024-07-27 01:06:45,059 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-27 01:06:45,060 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-27 01:07:19,305 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-27 01:07:19,723 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-27 01:08:10,618 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-27 01:08:15,011 - completed
+2024-07-28 01:05:02,722 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Paramatta.csv
+2024-07-28 01:05:02,724 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-28 01:05:32,839 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-28 01:05:33,087 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-28 01:05:48,905 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-28 01:05:52,695 - completed
+2024-07-28 01:05:52,695 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_Darling_Harbour.csv
+2024-07-28 01:05:52,697 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-28 01:06:11,839 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-28 01:06:12,207 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-28 01:06:28,138 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-28 01:06:32,915 - completed
+2024-07-28 01:06:32,916 - /python-scripts/hoteloccupancyprediction/DATASOURCE/occupancy_data_APX_World_Square.csv
+2024-07-28 01:06:32,917 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-28 01:07:16,840 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-28 01:07:17,243 - Starting new HTTPS connection (1): api.newbook.cloud:443
+2024-07-28 01:07:54,626 - https://api.newbook.cloud:443 "POST /rest/reports_occupancy HTTP/1.1" 200 None
+2024-07-28 01:07:58,029 - completed

@@ -1,0 +1,35 @@
+1.[mandatory] install all necessary python library
+required 3rd party libs:
+ -pandas
+ -numpy
+ -sklearn
+ -prophet
+ -plotly
+ -collections
+ -requests
+ -pytz
+2.[mandatory] Generate csv files if not exists in "DATASOURCE" directory (3 years occupancy and booking data will be downloaded as csv)
+   - change required hotel info in "UTILITIES/config.py"
+     (ACTIVE_HOTEL_ID,ACTIVE_HOTEL_NAME,ACTIVE_HOTEL_INSTANCE)
+   - execute /CSV_GENERATOR/download_data_and_generate_csv.py
+
+** to view stat graph of date vs occupancy for last 3 years
+   - execute /OCCUPANCY_RATE_STATISTICS_GRAPH/general_stat_date_vs_occupancy.py
+   - execute /OCCUPANCY_RATE_STATISTICS_GRAPH/general_stat_season_vs_occupancy.py
+
+** to view forcasting for date vs occupancy for a specific date range
+   - change "FORECASTING_START_DATE" and "FORECASTING_END_DATE" in "UTILITIES/config.py"
+   - execute /OCCUPANCY_RATE_FORECASTING/forecasting_for_date_range.py
+** to test the model accuracy for occupancy forecasting (find MAE value)
+   - execute /OCCUPANCY_RATE_FORECASTING/model_performance_matrix.py
+
+** to view stat graph of date vs bookings for last 3 years
+   - execute /HOTEL_BOOKING_DEMAND_STATISTICS_GRAPH/general_stat_date_vs_bookings.py
+   - execute /HOTEL_BOOKING_DEMAND_STATISTICS_GRAPH/general_stat_season_vs_bookings.py
+
+** to view forecasting for date vs bookings for a specific date range
+   - change "FORECASTING_START_DATE" and "FORECASTING_END_DATE" in "UTILITIES/config.py"
+   - execute /HOTEL_BOOKING_DEMAND_FORECASTING/forecasting_for_date_range.py
+** to test the model accuracy for hotel booking forecasting (find MAE value)
+   - execute /HOTEL_BOOKING_DEMAND_FORECASTING/model_performance_matrix.py
+*** to upgrade the ml model change /ML_MODELS/prophet_model.py file
